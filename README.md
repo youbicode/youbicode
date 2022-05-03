@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Remix & Tailwind
 - 💞️ I’m looking to collaborate on fullstack projects
 - 📫 hello[at]elyoubi.com
+- 🕸 elyoubi.com
 
 <!---
 youbicode/youbicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
