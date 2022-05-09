@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @youbicode
-- 👀 I’m interested in React / Nextjs / Remix / Prisma 
-- 🌱 I’m currently learning Remix & Tailwind
-- 💞️ I’m looking to collaborate on fullstack projects
+- Interested in React / Vue/ Nextjs / Nuxt / Remix / Prisma 
+- I’m currently playing with Remix & Tailwind
 - 📫 hello[at]elyoubi.com
 - 🕸 www.elyoubi.com
 
