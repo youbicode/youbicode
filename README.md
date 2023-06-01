@@ -1,5 +1,5 @@
 - Interested in React / Vue / Nextjs / Nuxt / Remix / Prisma 
-- I’m currently playing with Remix & Tailwind
+- I’m currently playing with Nextjs 13 & Tailwind
 - 📫 hello[at]elyoubi.com
 - 🕸 www.elyoubi.com
 - 📸 https://unsplash.com/@youbicode
