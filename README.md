@@ -2,7 +2,7 @@
 - I’m currently playing with Nextjs 13 & Tailwind
 - 📫 hello[at]elyoubi.com
 - 🕸 www.elyoubi.com
-- 📸 https://unsplash.com/@youbicode
+- 📸 https://unsplash.com/@elyoubi
 
 <!---
 youbicode/youbicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
